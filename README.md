@@ -11,10 +11,10 @@ The Python-Project contains the following files:
 
 ### Phase 1
 ----------------------------------------------------------------------------
-01_Import_Data:
+`01_Import_Data`:
 	Web crawl that concated the data sets provided by webrobots.io
 
-02_Decision_Trees:
+`02_Decision_Trees`:
 	Visualization of an exemplary decision tree
 
 ### Phase 2
