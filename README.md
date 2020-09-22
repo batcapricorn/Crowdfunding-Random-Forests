@@ -9,7 +9,7 @@ hours.
 
 The Python-Project contains the following files:
 
-## Phase 1
+### Phase 1
 ----------------------------------------------------------------------------
 01_Import_Data:
 	Web crawl that concated the data sets provided by webrobots.io
@@ -17,7 +17,7 @@ The Python-Project contains the following files:
 02_Decision_Trees:
 	Visualization of an exemplary decision tree
 
-## Phase 2
+### Phase 2
 ----------------------------------------------------------------------------
 11_EDA:
 	Exploratory Data Analysis of the underlying data set
@@ -25,7 +25,7 @@ The Python-Project contains the following files:
 12_DataProcessing:
 	Feature Engineering and Data Processing of the underlying data set
 
-## Phase 3
+### Phase 3
 ----------------------------------------------------------------------------
 21_RF_Tuning:
 	Tuning of the implemented models via grid search
