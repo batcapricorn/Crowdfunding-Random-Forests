@@ -4,8 +4,7 @@ This folder contains the code utilzed to examine crowdfunding projects with
 the aid of random forests. It does not include the corresponding export files.
 Nevertheless, the results could be replicated easily with the provided scrpyts.
 Eventually, the working directories would need to be adapted. Some scrypts 
-are computationally very intense and correspond to a running time above 10 
-hours.
+are computationally very intense.
 
 The Python-Project contains the following files:
 
