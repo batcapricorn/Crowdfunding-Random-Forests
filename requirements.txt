@@ -1,0 +1,12 @@
+matplotlib==3.3.4
+numpy==1.19.4
+requests==2.24.0
+scipy==1.5.4
+pandas==1.0.5
+beautifulsoup4==4.9.3
+graphviz==0.16
+nltk==3.6.1
+num2words==0.5.10
+scikit_learn==0.24.1
+seaborn==0.11.1
+textstat==0.7.0
