@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/lukasboehm97/Crowdfunding-Random-Forests)](https://github.com/lukasboehm97/Crowdfunding-Random-Forests/issues)
+
 # Random Forests - Bachelor Thesis
 
 This folder contains the code utilzed to examine crowdfunding projects with 
