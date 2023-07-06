@@ -1,7 +1,7 @@
 matplotlib==3.3.4
 numpy==1.19.4
 requests==2.24.0
-scipy==1.5.4
+scipy==1.10.0
 pandas==1.0.5
 beautifulsoup4==4.9.3
 graphviz==0.16
